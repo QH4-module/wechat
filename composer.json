@@ -1,0 +1,13 @@
+{
+    "name": "qh4-module/wechat",
+    "description": "微信相关模块",
+    "authors": [
+        {
+            "name": "hyunsu",
+            "email": "hyunsu@foxmail.com"
+        }
+    ],
+    "require": {},
+    "license": "MIT",
+    "minimum-stability": "dev"
+}
